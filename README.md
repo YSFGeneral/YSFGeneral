@@ -14,7 +14,7 @@ I’m experienced in creating sophisticated reports, performing in-depth data an
 In my GitHub repositories, you'll find a collection of projects that reflect my diverse skill set
 
 ## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/yolk-sch): Let's connect and discuss the exciting world of data analytics!
+- [LinkedIn](https://www.linkedin.com/in/ysfgeneral): Let's connect and discuss the exciting world of data analytics!
 - [X(Formerly Twitter)](https://x.com/its___ysf): Follow me for updates on data trends, projects, and more.
 
 I'm confident that my blend of technical proficiency, strategic thinking, and problem-solving abilities make me an ideal candidate for any data analyst role. Explore my repositories, reach out for collaboration opportunities, or connect for a deeper discussion about the fascinating field of data analytics.
